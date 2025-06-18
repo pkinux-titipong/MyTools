@@ -12,3 +12,5 @@ git clone https://github.com/<your-username>/mytools.git
 cd mytools
 chmod +x install.sh
 ./install.sh
+
+or Download at Release
